@@ -161,6 +161,8 @@ def plot_svm(ax, X, y, model, title="SVM Decision Boundary"):
     ax.legend(fontsize=8)
     ax.set_xlabel("Feature 1")
     ax.set_ylabel("Feature 2")
+    ax.set_xlim(x_min, x_max) ax.set_ylabel("Feature 2")
+    ax.set_xlim(x_min, x_max) ax.set_ylabel("Feature 2")
     ax.set_xlim(x_min, x_max)
 
 
