@@ -9,7 +9,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.datasets import make_circles   # allowed ONLY for data generation in Task 5
-
+import numpy as np
+import matplotlib.pyplot as plt
 
 # ============================================================
 # TASK 1 - Data Synthesis and Preprocessing
